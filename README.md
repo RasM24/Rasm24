@@ -1,16 +1,62 @@
-### Hi there 👋
+![EndRoad_logo_general_MINT](https://user-images.githubusercontent.com/42086955/113908599-ebe4e280-9800-11eb-8897-1dbb1ab3a8f9.png)
 
-<!--
-**RasM24/Rasm24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer  
+TeamLead
 
-Here are some ideas to get you started:
+# Technology Stack
+- Kotlin
+- Java
+- Multi Modules Arch
+- Gradle
+- Coroutine/RxJava/RxKotlin
+- Koin/Dagger
+- Android Arch
+- MVP/MVVM/MVI
+- Jetpack Compose
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projects
+
+### Для хакатонов
+
+**House Advice** - онлайн собрание жильцов для решения общедомовых вопросов  
+[![Repository](/icon/RepositoryApp.svg)](https://github.com/RasM24/Samples-HouseAdvice)
+
+**RosAtom** - цифровой помощник для экономии времени бизнес-процессов на предприятии  
+[![Repository](/icon/RepositoryApp.svg)](https://github.com/RasM24/hakaton-Rosatom)
+
+**PhotoQuest** - игра в жанре Alternate Reality Games. Узнаешь локацию по 360-панораме и идешь ее открывать  
+[![Repository](/icon/RepositoryApp.svg)](https://github.com/RasM24/Archive-PhotoQuest) 
+
+### Самостоятельные приложения
+
+**Нити Красноярска** - туристическая навигация по г. Красноярск  
+[[GooglePlay]](https://play.google.com/store/apps/details?id=endroad.nitiway&hl=ru&gl=US) 
+
+**ТИМ Бирюса** - интерактивная карта событий форума ТИМ Бирюса  
+[Ссылки пока нет] 
+
+**Экономикус** - интерактивный помощник для курсов в школе Экономикус  
+[![Repository](/icon/RepositoryApp.svg)](https://github.com/RasM24/Archive-Economicus) 
+
+**Season Appraiser** - сервис для поиска сериалов и просмотра оценок по каждому эпизоду  
+[![Repository](/icon/RepositoryApp.svg)](https://github.com/RasM24/App-SeasonAppraiser) [GooglePlay скоро]
+
+**Econom** - мегапростое приложение, TODO лист  
+[Ссылки скоро] 
+
+### Библиотеки и примеры
+
+**Sketchpad** - Сборник приложений-примеров каких-либо технологий и подходов. Например кастомная навигация, Coroutine, Jetpack и т.д.  
+[![Repository](/icon/RepositorySamples.svg)](https://github.com/RasM24/Samples-Sketchpad)
+
+**Warehouse** - Общая кодовая база на некоторые проекты. Много Legacy и мертворожденного кода  
+[![Repository](/icon/RepositoryLibrary.svg)](https://github.com/RasM24/Libraries-Warehouse) 
+
+**Jarmark** - Сборник иконок/тем/шрифтов. Имеет Sample для визуального просмотра тем/шрифтов/иконок  
+[![Repository](/icon/RepositoryLibrary.svg)](https://github.com/RasM24/Libraries-Jarmark) 
+
+# Contacts
+Почта: dvolyatik@yandex.ru  
+Linkedin: https://www.linkedin.com/in/endroad/
+
+![android_totoro](https://user-images.githubusercontent.com/42086955/113917019-e1c7e180-980a-11eb-92de-8d32f19f03a9.png)
