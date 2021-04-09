@@ -40,7 +40,7 @@ TeamLead
 ### Самостоятельные приложения
 
 **Нити Красноярска** - туристическая навигация по г. Красноярск  
-[[GooglePlay]](https://play.google.com/store/apps/details?id=endroad.nitiway&hl=ru&gl=US) 
+[![GooglePlay](/icon/GooglePlay.svg)](https://play.google.com/store/apps/details?id=endroad.nitiway&hl=ru&gl=US) 
 
 **ТИМ Бирюса** - интерактивная карта событий форума ТИМ Бирюса  
 [Ссылки пока нет] 
