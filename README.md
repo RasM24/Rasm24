@@ -4,15 +4,25 @@ Android Developer
 TeamLead
 
 # Technology Stack
-- Kotlin
-- Java
-- Multi Modules Arch
-- Gradle
+- Kotlin/Java
 - Coroutine/RxJava/RxKotlin
 - Koin/Dagger
-- Android Arch
+- Gradle
+- Multi Modules Arch
 - MVP/MVVM/MVI
-- Jetpack Compose
+- Android Arch (ViewModel/LiveData/Lifecycle)
+- Jetpack Compose, Classic Xml =)
+- Material Design
+- CustomView
+- Unit-test
+- Ui-test (Espresso, Barista, Kaspresso, своя библиотека)
+
+Так или иначе затрагивал инструменты:
+- Gson
+- Picasso
+- OpenGL
+- OpenCV
+- ML (tensorflow, pytorch)
 
 # Projects
 
