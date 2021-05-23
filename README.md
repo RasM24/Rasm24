@@ -40,7 +40,7 @@ TeamLead
 ### Самостоятельные приложения
 
 **Нити Красноярска** - туристическая навигация по г. Красноярск  
-[![GooglePlay](/icon/GooglePlay.svg)](https://play.google.com/store/apps/details?id=endroad.nitiway&hl=ru&gl=US) 
+[![GooglePlay](/icon/GooglePlay.svg)](https://play.google.com/store/apps/details?id=endroad.nitiway) 
 
 **ТИМ Бирюса** - интерактивная карта событий форума ТИМ Бирюса  
 [Ссылки пока нет] 
@@ -64,6 +64,20 @@ TeamLead
 
 **Jarmark** - Сборник иконок/тем/шрифтов. Имеет Sample для визуального просмотра тем/шрифтов/иконок  
 [![Repository](/icon/RepositoryLibrary.svg)](https://github.com/RasM24/Libraries-Jarmark) 
+
+### Коммерческая разработка
+
+**KoronaPay - Денежные переводы** - большое приложение из финтеха, работал в составе большой команды
+[![GooglePlay](/icon/GooglePlay.svg)](https://play.google.com/store/apps/details?id=ru.tsk.ftc.bender.qpay) 
+
+**Billboard MediaPlayer** - умный плеер для рекламных биллбордов с возможностью удаленное управления. Запущен в г. Красноярск в 2019 году
+[[Приложения нет в общем доступе]]
+
+**Sparta Social Network** - социальная сеть с возможностью записи и показом расписания тренировок в сети фитнес залов Sparta, г. Красноярск
+[[Приложения нет в общем доступе]]
+
+**Oko24** - приложения для просмотра камер видеонаблюдения - как общедоступных, так и приватных для каждого дома (доступно через регистрацию)
+[[Приложения нет в общем доступе]]
 
 # Contacts
 Почта: dvolyatik@yandex.ru  
