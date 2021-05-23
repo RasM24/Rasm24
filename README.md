@@ -51,8 +51,8 @@ TeamLead
 **Season Appraiser** - сервис для поиска сериалов и просмотра оценок по каждому эпизоду  
 [![Repository](/icon/RepositoryApp.svg)](https://github.com/RasM24/App-SeasonAppraiser) [GooglePlay скоро]
 
-**Econom** - мегапростое приложение, TODO лист  
-[Ссылки скоро] 
+**Econom** - мегапростое приложение, TODO лист. Реализовано на Jetpack Compose
+[![Repository](/icon/RepositoryApp.svg)](https://github.com/RasM24/App-Econom)
 
 ### Библиотеки и примеры
 
